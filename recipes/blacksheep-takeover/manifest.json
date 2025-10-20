@@ -1,0 +1,9 @@
+{
+  "title": "Blacksheep Takeover",
+  "date": "2025-10-20",
+  "files": {
+    "ingredients": "ingredients.md",
+    "mise_en_place": "mise-en-place.md",
+    "recipe": "recipe.md"
+  }
+}
