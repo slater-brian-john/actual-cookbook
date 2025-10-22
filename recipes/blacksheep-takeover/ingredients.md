@@ -4,12 +4,13 @@
 
 | Ingredient | Weight (g) | Approx. Units | Notes |
 |------------|------------|---------------|-------|
-| Pineapple | — | 2 whole pineapples | Peel, core, cube |
-| Country Ham | — | 120 slices (~3 lb) | Render or crisp lightly |
-| Kimchi (chopped & blended) | 6 300 | ~2 gallons | Cook down to sauce consistency |
-| Soy Sauce (naturally brewed) | 115 | 1 small bottle | Add during reduction |
-| Gochugaru or Tomato Paste | 55 | ~¼ cup | Optional: deepens color/body |
-| Neutral Oil / Rendered Fat | 30 | 2 Tbsp | For cooking kimchi base |
+| Pineapple | — | 2 whole pineapples | Peel, slice with meat slicer thicknrdd 1 |
+| Country Ham | — | 120 slices (~3 lb) | Meat slicer setting 1 |
+| Kimchi | 6 300 | ~2 gallons | Cook down to sauce consistency |
+| Soy Sauce (naturally brewed) | 115 | 1 small bottle | Add to 2 quarts of water |
+| Gochugaru or Tomato Paste | 55 | ~¼ cup | Add to 2 quarts of water with soy sauce |
+| Butter / Beef tallow | 30 | 2 Tbsp | For cooking kimchi base |
+| Hoosier Gameday Lager | 425 mL | 1 pint |
 
 ---
 
@@ -21,6 +22,7 @@
 | Parmigiano Reggiano (grated) | 142 | ~2 cups | Fine microplane |
 | Pecorino Romano (grated) | 142 | ~2 cups | Fine microplane |
 | Black Garlic | 99 | ~12-14 cloves (2 bulbs) | Peeled |
+| White wine reduction | 125 mL | ~ 1/4 cup | reduce 300 mLs of white wine
 | Lemon Juice (fresh) | 14 | Juice of ~⅓ lemon | Adjust to taste |
 
 ---
